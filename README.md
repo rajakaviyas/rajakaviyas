@@ -19,5 +19,5 @@
 - Food Supply Management System
 
 ## 📫 Connect With Me
-- LinkedIn: [Rajakaviya S](https://www.linkedin.com/in/rajakaviyas/)
-- GitHub  : [rajakaviyas](https://github.com/rajakaviyas)
+- [LinkedIn](https://www.linkedin.com/in/rajakaviyas/)
+- [GitHub](https://github.com/rajakaviyas)
