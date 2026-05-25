@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there,I'm Rajakaviya 👋
 
-<!--
-**rajakaviyas/rajakaviyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE CSE Student  
+💻 Aspiring Software Developer  
+🌱 Learning Full Stack Development & Machine Learning  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Java
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Fake Review Detection System
+- Student Management System
+- Burger Hut Website
+- Food Supply Management System
+
+## 📫 Connect With Me
+- LinkedIn: [Rajakaviya S](https://www.linkedin.com/in/rajakaviyas/)
+- GitHub  : [rajakaviyas](https://github.com/rajakaviyas)
