@@ -1,8 +1,7 @@
 ## Hi there,I'm Rajakaviya 👋
-
-🎓 BE CSE Student  
+🎓 BE CSE Graduate (2026)  
 💻 Aspiring Software Developer  
-🌱 Learning Full Stack Development & Machine Learning  
+🚀 Full Stack & Machine Learning Enthusiast 
 
 ## 🚀 Skills
 - Python
