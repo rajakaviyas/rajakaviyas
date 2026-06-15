@@ -10,6 +10,7 @@
 - HTML
 - CSS
 - JavaScript
+- JDBC 
 
 ## 📌 Projects
 - Fake Review Detection System
