@@ -14,9 +14,9 @@
 
 ## 📌 Projects
 - Fake Review Detection System
+- Attendance Management System
 - Student Management System
 - Burger Hut Website
-- Food Supply Management System
 - Interview Tracker System 
 
 ## 📫 Connect With Me
