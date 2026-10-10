@@ -4,9 +4,14 @@
 🚀 Full Stack & Machine Learning Enthusiast 
 
 ## 🚀 Skills
-- Python
 - Java
+- Spring Boot
+- REST APIs
+- SQL Server
 - MySQL
+- ASP.NET MVC
+- ASP.NET Web API
+- C#
 - HTML
 - CSS
 - JavaScript
