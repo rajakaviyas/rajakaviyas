@@ -7,7 +7,7 @@
 
 ## 🚀 Technical Skills
 
-- **Languages:** C#, Java, JavaScript
+- **Languages:** C#, Java
 - **Backend:** ASP.NET MVC, ASP.NET Web API, Spring Boot, REST APIs, JDBC
 - **Database:** SQL Server, MySQL
 - **Frontend:** HTML, CSS
